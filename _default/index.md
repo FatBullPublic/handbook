@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FatBull Handbook
+title: MTX Handbook
 lang: en
 description: All Remote Team
 ---
